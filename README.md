@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![auto-generated github stats](https://github-readme-stats.vercel.app/api?count_private=true&username=auto-generated&show_icons=true&hide_border=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/auto-generated/auto-generated/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/auto-generated/auto-generated/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/auto-generated/auto-generated/output/github-contribution-grid-snake.svg">
+</picture>
